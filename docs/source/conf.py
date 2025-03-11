@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'VarCas-OFFinder'
+copyright = '2024, COLAB@PNU'
+author = 'Abyot Melkamu'
 
 release = '0.1'
 version = '0.1.0'
