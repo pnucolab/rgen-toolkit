@@ -7,17 +7,17 @@ Supported File Format
 
 Allelic-Cas-OFFinder tool supports the following file formats for processing and analysis.
 
-- .vcf: Variant Call Format files, used for storing genomic variants
-- .vcf.gz: Compressed VCF files, either .gz or bgzip VCF files.
+- **.vcf**: Variant Call Format files, used for storing genomic variants
+- **.vcf.gz**: Compressed VCF files, either .gz or bgzip VCF files.
 
 Ensure your input file is in one of these formats for compatibility with the tool.
 
 Required Tools for CLI and Local Deployment
 -------------------------------------------
 
-For users who prefer to work via the command-line interface or deploy Allelic-Cas-OFFinder locally, the following tools are required:
+For users who prefer to work via the **command-line interface** or **deploy VarCas-OFFinder locally**, the following tools are required:
 
-1. OpenCL device
+1. **OpenCL device**
 
 2. bcftools: a utility for manipulating and filtering VCF files.
 
