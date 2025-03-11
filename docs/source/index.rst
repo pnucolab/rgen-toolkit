@@ -43,4 +43,5 @@ Check out the :doc:`usage` section for further information.
    usage
    deploy
    webtool
+   requirements
 
