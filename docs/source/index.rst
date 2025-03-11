@@ -1,4 +1,4 @@
-Variant-aware Cas-OFFinder
+RGEN-toolkit
 ==========================
 
 **VarCas-OFFinder** is a variant aware potential off-target site identifying tool 
