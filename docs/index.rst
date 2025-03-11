@@ -32,14 +32,12 @@ Check out the :doc:`usage` section for further information.
 
 
 
-Contents
---------
+
 
 .. toctree::
+   :maxdepth: 4
+   :caption: Contents
 
-   requirements
-   usage
-   webtool
-   cli
-   deploy
-   best-practices
+   tldr
+   source
+   userguide
