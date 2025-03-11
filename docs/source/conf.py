@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'VarCas-OFFinder'
+project = 'RGEN-toolkit'
 copyright = '2024, COLAB@PNU'
 author = 'Abyot Melkamu'
 
