@@ -33,7 +33,19 @@ Check running container:
         
    docker compose ps
 
-View logs (optional):
+To run a command inside a running container (backend).
+
+.. code-block:: bash
+        
+   docker compose exec backend sh
+
+This is useful when you need to:
+
+- Manually inspect or debug the backend container.
+- Run Python scripts, check logs, or test API endpoints.
+- Install additional dependencies inside the container temporarily.
+
+To view logs (optional):
 
 .. code-block:: bash
         
