@@ -1,5 +1,5 @@
-RGEN-toolkit
-==========================
+VarCas-OFFinder
+===============
 
 **VarCas-OFFinder** is a variant aware potential off-target site identifying tool 
 based on Cas-OFFinder. Using a reference genome alone to search potential off-target sites
