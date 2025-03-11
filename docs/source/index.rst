@@ -38,13 +38,9 @@ Check out the :doc:`usage` section for further information.
    :maxdepth: 4
    :caption: Contents
 
+   quickstart
    userguide
-   best-practices
-   cli
-   deploy
-   requirements
-   usage
-   webtool
+   
    
    
 
