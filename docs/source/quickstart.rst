@@ -19,4 +19,3 @@ Quick Start to use the web interface
       bcftools view -r chr6,chr10 NA12878.vcf.gz -o Output.vcf.gz
 
 
-Check out the :doc:`usage` section for further information.
