@@ -38,7 +38,7 @@ Check out the :doc:`usage` section for further information.
    :maxdepth: 4
    :caption: Contents
 
-
+   userguide
    best-practices
    cli
    deploy
