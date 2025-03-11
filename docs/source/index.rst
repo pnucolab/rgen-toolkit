@@ -38,6 +38,6 @@ Check out the :doc:`usage` section for further information.
    :maxdepth: 4
    :caption: Contents
 
-   tldr
+   quickstart
    source
    userguide
