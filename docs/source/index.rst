@@ -39,9 +39,12 @@ Check out the :doc:`usage` section for further information.
    :caption: Contents
 
 
+   best-practices
    cli
-   usage
    deploy
-   webtool
    requirements
+   usage
+   webtool
+   
+   
 
