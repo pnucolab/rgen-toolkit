@@ -40,7 +40,7 @@ Activate the conda environment:
 
    conda activate varcasoffinder
 
-install all dependencies
+Install all dependencies
 
 ::
 
