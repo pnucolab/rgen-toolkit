@@ -108,7 +108,7 @@ Now you can run allelic-Cas-OFFinder as follows (using GPUs):
       ./allelic-cas-offinder.py -i /home/user/Documents/vcf_files/bgzipresultcm334.vcf.gz -r /home/user/genome/pepper_ref/GCA_000512255.2_ASM51225v2_genomic.fa -t input.txt -d G1
 
 
-Sample results can be obtained fro  https://github.com/pnucolab/variant-aware-Cas-OFFinder/blob/main/docs/images/Screenshot%202025-03-07%20231028.png. 
+Sample results can be obtained fro  https://github.com/pnucolab/VarCas-OFFinder/blob/main/docs_old/images/Screenshot%202025-03-07%20231028.png. 
 
 - 0 after the colon in the second column represents allele 1, and 1 represents allele 2 for each chromosome. In the example shown above, CVCM334_CM008455, CVCM334_CM008456, etc, are chromosome identifiers found in the allelic fasta files. 
 
