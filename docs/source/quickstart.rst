@@ -1,5 +1,10 @@
+
+Quick Start
+===========
+
 Quick Start to use the web interface
 ------------------------------------
+
 
 1. Navigate to https://crispr.pnucolab.com/
 2. Download the provided **Sample VCF file**
@@ -17,5 +22,36 @@ Quick Start to use the web interface
    .. code-block:: bash
 
       bcftools view -r chr6,chr10 NA12878.vcf.gz -o Output.vcf.gz
+
+
+Quick Start to use the CLI
+------------------------------------
+
+Create a conda environment
+
+
+::
+
+   conda create -n varcasoffinder
+
+Activate the conda environment:
+
+::
+
+   conda activate varcasoffinder
+
+install all dependencies
+
+::
+
+   pip install -r requirements.txt
+
+Then run:
+
+::
+
+   ./vcf-cas-offinder.py -h
+
+
 
 
