@@ -52,7 +52,7 @@ Then for help, run:
 
    ./vcf-cas-offinder.py -h
 
-.. figure:: docs/source/images/Screenshot-14-45-24.png
+.. figure:: ./images/Screenshot-14-45-24.png
    :alt: CLI help message
 
 
