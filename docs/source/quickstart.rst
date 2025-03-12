@@ -46,7 +46,7 @@ Install all dependencies
 
    pip install -r requirements.txt
 
-Then run:
+Then for help, run:
 
 ::
 
