@@ -1,7 +1,7 @@
 How to use the web interface
 ============================
 
-Allelic-Cas-OFFinder web tool works well in the following operating systems and web browsers.
+Variant-aware Cas-OFFinder web tool works well in the following operating systems and web browsers.
 
 - Supported Operating Systems:
     - Windows
