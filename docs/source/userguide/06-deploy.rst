@@ -9,7 +9,7 @@ If the user wants to deploy on local machines, then follow the following steps.
 
 1. Create a directory
 2. Download frontend, backend, Caddyfile, and docker-compose.yml source codes to the directory
-3. Download Cas-offinder from https://github.com/pnucolab/VarCas-OFFinder/raw/refs/heads/main/backend/cas-offinder and make it executable:
+3. Download Cas-offinder from https://github.com/pnucolab/variant-aware-cas-offinder/raw/refs/heads/main/backend/cas-offinder and make it executable:
 
 .. code-block:: bash
         
