@@ -1,11 +1,11 @@
-VarCas-OFFinder
+Variant-aware Cas-OFFinder
 ===============
 
-**VarCas-OFFinder** is a variant aware potential off-target site identifying tool 
+**Variant-aware Cas-OFFinder** is a variant-aware potential off-target sites identifying tool 
 based on Cas-OFFinder. Using a reference genome alone to search potential off-target sites
 has many drawbacks since it may not contain individual variants, making it challenging for
 therapeutic applications. VarCas-OFFinder considers individual variants along with 
-reference genome to search potential off-target sites. 
+reference genomes to search potential off-target sites. 
 
 Quick Start to use the web interface
 ------------------------------------
