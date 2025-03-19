@@ -1,5 +1,5 @@
 Variant-aware Cas-OFFinder
-===============
+==========================
 
 **Variant-aware Cas-OFFinder** is a variant-aware potential off-target sites identifying tool 
 based on Cas-OFFinder. Using a reference genome alone to search potential off-target sites
