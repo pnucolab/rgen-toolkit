@@ -18,7 +18,7 @@ Download requirements.txt and vcf-cas-offinder.py from the command-line interfac
 
    pip install —no-cache-dir -r requirements.txt
 
-Download the Cas-OFFinder binary file from https://github.com/pnucolab/VarCas-OFFinder/raw/refs/heads/main/backend/cas-offinder 
+Download the Cas-OFFinder binary file from https://github.com/pnucolab/variant-aware-cas-offinder/raw/refs/heads/main/backend/cas-offinder 
 in the same directory with vcf-cas-offinder.py. 
 
 Install the vcflib package using conda, execute the following command:
