@@ -101,11 +101,11 @@ An example of an input file:
 - The remaining lines are the query sequences and maximum mismatch numbers, separated by spaces.
 - The length of the desired pattern and the query sequences should be the same.
 
-Now you can run allelic-Cas-OFFinder as follows (using GPUs):
+Now you can run Variant-aware Cas-OFFinder as follows (using GPUs):
 
 .. code-block:: bash
         
-      ./allelic-cas-offinder.py -i /home/user/Documents/vcf_files/bgzipresultcm334.vcf.gz -r /home/user/genome/pepper_ref/GCA_000512255.2_ASM51225v2_genomic.fa -t input.txt -d G1
+      ./allelic-cas-offinder.py -i bgzipresultcm334.vcf.gz -r /home/user/genome/pepper_ref/GCA_000512255.2_ASM51225v2_genomic.fa -t input.txt -d G
 
 
 The sample result is given below. For this analysis we used the Pepper cultivar (CM334) genome with 2 mismatches.
