@@ -73,7 +73,7 @@ For a short help, try running:
    options:
    -h, --help            show this help message and exit
    -i INPUT, --input INPUT
-                        Path to the input VCF (Phased and single sample) file
+                        input file name (Phased and single sample VCF file)
    -r REF_PATH, --ref_path REF_PATH
                         Path to the target organism reference genome
    -t QUERY_INPUT, --query_input QUERY_INPUT
