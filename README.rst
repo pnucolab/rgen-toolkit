@@ -1,4 +1,5 @@
-# Variant-aware Cas-OFFinder
+Variant-aware Cas-OFFinder
+=========================
 
 This repository provides comprehensive documentation for the Variant-aware Cas-OFFinder tool. 
 It includes a detailed user guide for the web interface, instructions for using the command-line interface (CLI), 
