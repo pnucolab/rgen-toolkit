@@ -1,19 +1,30 @@
-VarCas-OFFinder
-===============
+# Variant-aware Cas-OFFinder
 
-This repository contains the source code for the variant aware Cas-Offinder tool. The source code of the webtool, command-line interface, and the docker 
-compose file can be found in this repository. 
+This repository provides comprehensive documentation for the Variant-aware Cas-OFFinder tool. 
+It includes a detailed user guide for the web interface, instructions for using the command-line interface (CLI), 
+and a Docker Compose file for easy local deployment.
 
 Prerequisites
 =============
 
-To run the command-line interface and to deploy the web source code on local machines, OpenCL device is required. 
+To run the command-line interface or host the web application locally, an OpenCL-compatible device is required. 
+OpenCL (Open Computing Language) enables parallel computing across heterogeneous systems and is essential for the
+high-performance computational tasks performed by Cas-OFFinder.
 
+System Requirements:
+--------------------
+• OpenCL-compatible hardware:
+   - GPUs (e.g., NVIDIA, AMD)
+   - Some CPUs that support OpenCL
+• Installed OpenCL drivers for your device
+• Docker (for using the docker-compose deployment)
+• Python (if using the CLI version outside of Docker)
 
-Documentation
-=============
+Tip: You can verify your OpenCL setup using tools like `clinfo`.
 
-https://rgen-toolkit.readthedocs.io/
+Note: While the web-based tool can be accessed remotely (hosted version), running it 
+locally or via CLI requires proper OpenCL setup to ensure efficient off-target search performance.
+
 
 Citations
 =========
@@ -23,7 +34,7 @@ Citations
 License
 =======
 
-Copyright (C) 2024 Jeongbin Park
+Copyright (C) 2024 Mekonnen Abyot Melkamu and Jeongbin Park
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
