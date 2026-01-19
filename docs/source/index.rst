@@ -10,7 +10,7 @@ reference genomes to search potential off-target sites.
 Quick Start to use the web interface
 ------------------------------------
 
-1. Navigate to https://crispr.pnucolab.com/
+1. Navigate to https://rgetoolkit.com/
 2. Download the provided **Sample VCF file**
 3. Default settings:
 
