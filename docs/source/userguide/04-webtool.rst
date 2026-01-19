@@ -14,7 +14,7 @@ Variant-aware Cas-OFFinder web tool works well in the following operating system
     - Microsoft Edge
     - Safari
 
-To get started, navigate to https://crispr.pnucolab.com/ and explore the platform's features. 
+To get started, navigate to https://rgetoolkit.com/ and explore the platform's features. 
 A Sample VCF file is provided for new users, which can be easily downloaded by clicking on the link. 
 This sample file serves as a great starting point for familiarizing yourself with the tool's capabilities.
 The platform's default settings include:
