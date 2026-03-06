@@ -3,10 +3,13 @@ Changelog
 
 .. contents::
     :local:
-    :depth: 1
+    :depth: 2
 
-v1.0.1
-------
+1.x Series
+----------
+
+1.0.1
+~~~~~
 
 **Performance**
 
@@ -30,8 +33,8 @@ v1.0.1
 - **Advanced Result Filtering**: Filter results by gRNA sequence, mismatch
   count, and GC content for more targeted analysis.
 
-v1.0.0
-------
+1.0.0
+~~~~~
 
 - Initial public release of Variant-aware Cas-OFFinder — a variant-aware
   off-target prediction tool that incorporates individual genetic variants
