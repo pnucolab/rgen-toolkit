@@ -33,6 +33,8 @@ v1.0.1
 v1.0.0
 ------
 
-- Initial public release of Variant-aware Cas-OFFinder.
-- Support for major PAM types (SpCas9, SaCas9, Cpf1).
-- Reference genome-based off-target prediction with unlimited mismatches.
+- Initial public release of Variant-aware Cas-OFFinder — a variant-aware
+  off-target prediction tool that incorporates individual genetic variants
+  (via VCF files) alongside reference genomes.
+- Support for 40+ PAM types.
+- Unlimited mismatch tolerance for comprehensive off-target site detection.
