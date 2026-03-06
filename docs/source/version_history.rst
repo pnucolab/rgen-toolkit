@@ -1,5 +1,5 @@
 Version History
-==============
+===============
 
 .. contents::
     :local:
