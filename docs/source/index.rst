@@ -34,6 +34,7 @@ Quick Start to use the web interface
 
    quickstart
    userguide
+   changelog
    
    
    
