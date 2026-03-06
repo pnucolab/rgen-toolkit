@@ -3,13 +3,10 @@ Changelog
 
 .. contents::
     :local:
-    :depth: 2
-
-v1.x Series
------------
+    :depth: 1
 
 v1.0.1
-~~~~~~
+------
 
 **Performance**
 
@@ -34,7 +31,7 @@ v1.0.1
   count, and GC content for more targeted analysis.
 
 v1.0.0
-~~~~~~
+------
 
 - Initial public release of Variant-aware Cas-OFFinder.
 - Support for major PAM types (SpCas9, SaCas9, Cpf1).
