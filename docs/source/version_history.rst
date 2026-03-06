@@ -1,5 +1,5 @@
-Changelog
-=========
+Version History
+==============
 
 .. contents::
     :local:
